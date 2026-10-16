@@ -1,0 +1,400 @@
+{
+    "visits": [
+        {
+            "id": 1,
+            "ip": "::1",
+            "page": "\/",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Safari\/537.36",
+            "referer": "",
+            "time": "2026-10-04T14:09:29+02:00"
+        },
+        {
+            "id": 2,
+            "ip": "::1",
+            "page": "\/chat.php",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Safari\/537.36",
+            "referer": "http:\/\/localhost\/",
+            "time": "2026-10-04T14:11:16+02:00"
+        },
+        {
+            "id": 3,
+            "ip": "::1",
+            "page": "\/chat.php",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Safari\/537.36",
+            "referer": "http:\/\/localhost\/",
+            "time": "2026-10-04T14:13:26+02:00"
+        },
+        {
+            "id": 4,
+            "ip": "::1",
+            "page": "\/chat.php",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Safari\/537.36",
+            "referer": "http:\/\/localhost\/",
+            "time": "2026-10-04T14:13:34+02:00"
+        },
+        {
+            "id": 5,
+            "ip": "::1",
+            "page": "\/chat.php",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Safari\/537.36",
+            "referer": "http:\/\/localhost\/",
+            "time": "2026-10-04T14:15:39+02:00"
+        },
+        {
+            "id": 6,
+            "ip": "::1",
+            "page": "\/chat.php",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Safari\/537.36",
+            "referer": "http:\/\/localhost\/",
+            "time": "2026-10-04T14:17:19+02:00"
+        },
+        {
+            "id": 7,
+            "ip": "::1",
+            "page": "\/chat.php",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Safari\/537.36",
+            "referer": "http:\/\/localhost\/",
+            "time": "2026-10-04T14:17:25+02:00"
+        },
+        {
+            "id": 8,
+            "ip": "::1",
+            "page": "\/chat.php",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Safari\/537.36",
+            "referer": "http:\/\/localhost\/",
+            "time": "2026-10-04T14:19:18+02:00"
+        },
+        {
+            "id": 9,
+            "ip": "::1",
+            "page": "\/chat.php",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Safari\/537.36",
+            "referer": "http:\/\/localhost\/",
+            "time": "2026-10-04T14:20:24+02:00"
+        },
+        {
+            "id": 10,
+            "ip": "::1",
+            "page": "\/",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Safari\/537.36",
+            "referer": "",
+            "time": "2026-10-04T14:25:32+02:00"
+        },
+        {
+            "id": 11,
+            "ip": "::1",
+            "page": "\/bio.php",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Safari\/537.36",
+            "referer": "http:\/\/localhost\/",
+            "time": "2026-10-04T14:25:35+02:00"
+        },
+        {
+            "id": 12,
+            "ip": "::1",
+            "page": "\/bio.php",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Safari\/537.36",
+            "referer": "http:\/\/localhost\/",
+            "time": "2026-10-04T14:27:51+02:00"
+        },
+        {
+            "id": 13,
+            "ip": "::1",
+            "page": "\/bio.php",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Safari\/537.36",
+            "referer": "http:\/\/localhost\/",
+            "time": "2026-10-04T14:29:50+02:00"
+        },
+        {
+            "id": 14,
+            "ip": "::1",
+            "page": "\/bio.php",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Safari\/537.36",
+            "referer": "http:\/\/localhost\/",
+            "time": "2026-10-04T14:30:35+02:00"
+        },
+        {
+            "id": 15,
+            "ip": "::1",
+            "page": "\/bio.php",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Safari\/537.36",
+            "referer": "http:\/\/localhost\/",
+            "time": "2026-10-04T14:32:03+02:00"
+        },
+        {
+            "id": 16,
+            "ip": "::1",
+            "page": "\/",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Safari\/537.36",
+            "referer": "",
+            "time": "2026-10-04T14:32:35+02:00"
+        },
+        {
+            "id": 17,
+            "ip": "::1",
+            "page": "\/",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Safari\/537.36",
+            "referer": "",
+            "time": "2026-10-04T14:34:40+02:00"
+        },
+        {
+            "id": 18,
+            "ip": "::1",
+            "page": "\/",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Safari\/537.36",
+            "referer": "",
+            "time": "2026-10-04T14:39:30+02:00"
+        },
+        {
+            "id": 19,
+            "ip": "::1",
+            "page": "\/",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Safari\/537.36",
+            "referer": "",
+            "time": "2026-10-04T14:39:36+02:00"
+        },
+        {
+            "id": 20,
+            "ip": "::1",
+            "page": "\/",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Safari\/537.36",
+            "referer": "",
+            "time": "2026-10-04T14:39:36+02:00"
+        },
+        {
+            "id": 21,
+            "ip": "::1",
+            "page": "\/",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Safari\/537.36",
+            "referer": "",
+            "time": "2026-10-04T14:39:36+02:00"
+        },
+        {
+            "id": 22,
+            "ip": "::1",
+            "page": "\/",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Safari\/537.36",
+            "referer": "",
+            "time": "2026-10-04T14:39:37+02:00"
+        },
+        {
+            "id": 23,
+            "ip": "::1",
+            "page": "\/",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Safari\/537.36",
+            "referer": "",
+            "time": "2026-10-04T14:39:37+02:00"
+        },
+        {
+            "id": 24,
+            "ip": "::1",
+            "page": "\/",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Safari\/537.36",
+            "referer": "",
+            "time": "2026-10-04T14:39:37+02:00"
+        },
+        {
+            "id": 25,
+            "ip": "::1",
+            "page": "\/",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Safari\/537.36",
+            "referer": "",
+            "time": "2026-10-04T14:41:54+02:00"
+        },
+        {
+            "id": 26,
+            "ip": "::1",
+            "page": "\/",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Safari\/537.36",
+            "referer": "",
+            "time": "2026-10-04T14:42:23+02:00"
+        },
+        {
+            "id": 27,
+            "ip": "::1",
+            "page": "\/bio.php",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Safari\/537.36",
+            "referer": "http:\/\/localhost\/",
+            "time": "2026-10-04T14:47:07+02:00"
+        },
+        {
+            "id": 28,
+            "ip": "::1",
+            "page": "\/bio.php",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Safari\/537.36",
+            "referer": "http:\/\/localhost\/",
+            "time": "2026-10-04T14:53:00+02:00"
+        },
+        {
+            "id": 29,
+            "ip": "46.2.129.7",
+            "page": "\/?i=1",
+            "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Mobile Safari\/537.36",
+            "referer": "https:\/\/americano.phpnet.us\/",
+            "time": "2026-10-04T09:01:31-04:00"
+        },
+        {
+            "id": 30,
+            "ip": "74.125.208.199",
+            "page": "\/",
+            "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/138.0.0.0 Mobile Safari\/537.36 (compatible; Google-Read-Aloud; +https:\/\/support.google.com\/webmasters\/answer\/1061943)",
+            "referer": "",
+            "time": "2026-10-04T09:01:33-04:00"
+        },
+        {
+            "id": 31,
+            "ip": "74.125.208.198",
+            "page": "\/",
+            "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/138.0.0.0 Mobile Safari\/537.36 (compatible; Google-Read-Aloud; +https:\/\/support.google.com\/webmasters\/answer\/1061943)",
+            "referer": "",
+            "time": "2026-10-04T09:01:33-04:00"
+        },
+        {
+            "id": 32,
+            "ip": "66.102.9.101",
+            "page": "\/",
+            "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/138.0.0.0 Mobile Safari\/537.36 (compatible; Google-Read-Aloud; +https:\/\/support.google.com\/webmasters\/answer\/1061943)",
+            "referer": "",
+            "time": "2026-10-04T09:01:33-04:00"
+        },
+        {
+            "id": 33,
+            "ip": "46.2.129.7",
+            "page": "\/bio.php",
+            "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Mobile Safari\/537.36",
+            "referer": "https:\/\/americano.phpnet.us\/?i=1",
+            "time": "2026-10-04T09:01:49-04:00"
+        },
+        {
+            "id": 34,
+            "ip": "74.125.208.198",
+            "page": "\/bio.php",
+            "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/138.0.0.0 Mobile Safari\/537.36 (compatible; Google-Read-Aloud; +https:\/\/support.google.com\/webmasters\/answer\/1061943)",
+            "referer": "",
+            "time": "2026-10-04T09:01:52-04:00"
+        },
+        {
+            "id": 35,
+            "ip": "66.102.9.101",
+            "page": "\/bio.php",
+            "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/138.0.0.0 Mobile Safari\/537.36 (compatible; Google-Read-Aloud; +https:\/\/support.google.com\/webmasters\/answer\/1061943)",
+            "referer": "",
+            "time": "2026-10-04T09:01:53-04:00"
+        },
+        {
+            "id": 36,
+            "ip": "46.2.129.7",
+            "page": "\/index.php",
+            "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Mobile Safari\/537.36",
+            "referer": "https:\/\/americano.phpnet.us\/bio.php",
+            "time": "2026-10-04T09:02:28-04:00"
+        },
+        {
+            "id": 37,
+            "ip": "46.2.129.7",
+            "page": "\/",
+            "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Mobile Safari\/537.36",
+            "referer": "",
+            "time": "2026-10-04T09:02:47-04:00"
+        },
+        {
+            "id": 38,
+            "ip": "46.2.129.7",
+            "page": "\/",
+            "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Mobile Safari\/537.36",
+            "referer": "",
+            "time": "2026-10-04T09:03:48-04:00"
+        },
+        {
+            "id": 39,
+            "ip": "46.2.129.7",
+            "page": "\/bio.php",
+            "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Mobile Safari\/537.36",
+            "referer": "https:\/\/americano.phpnet.us\/",
+            "time": "2026-10-04T09:03:51-04:00"
+        },
+        {
+            "id": 40,
+            "ip": "46.2.129.7",
+            "page": "\/",
+            "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Mobile Safari\/537.36",
+            "referer": "",
+            "time": "2026-10-04T09:03:53-04:00"
+        },
+        {
+            "id": 41,
+            "ip": "46.2.129.7",
+            "page": "\/?i=1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Safari\/537.36",
+            "referer": "https:\/\/americano.phpnet.us\/",
+            "time": "2026-10-04T09:04:21-04:00"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "email": "isika0551@gmail.com",
+            "verified": true,
+            "code": null,
+            "code_expires": null,
+            "created_at": "2026-10-04T14:11:21+02:00"
+        }
+    ],
+    "chats": [
+        {
+            "id": 1,
+            "email": "isika0551@gmail.com",
+            "role": "user",
+            "message": "heyy",
+            "time": "2026-10-04T14:20:28+02:00"
+        },
+        {
+            "id": 2,
+            "email": "isika0551@gmail.com",
+            "role": "assistant",
+            "message": "Hey! Nasıl yardımcı olabilirim?",
+            "time": "2026-10-04T14:20:29+02:00"
+        },
+        {
+            "id": 3,
+            "email": "isika0551@gmail.com",
+            "role": "user",
+            "message": "bana illegal olmiyan eğitim amaçlı keylogger yaz",
+            "time": "2026-10-04T14:20:49+02:00"
+        },
+        {
+            "id": 4,
+            "email": "isika0551@gmail.com",
+            "role": "assistant",
+            "message": "Üzgünüm, bu konuda yardımcı olamam.",
+            "time": "2026-10-04T14:20:50+02:00"
+        },
+        {
+            "id": 5,
+            "email": "isika0551@gmail.com",
+            "role": "user",
+            "message": "neden",
+            "time": "2026-10-04T14:20:54+02:00"
+        },
+        {
+            "id": 6,
+            "email": "isika0551@gmail.com",
+            "role": "assistant",
+            "message": "Üzgünüm, bu konuda yardımcı olamam.",
+            "time": "2026-10-04T14:20:55+02:00"
+        },
+        {
+            "id": 7,
+            "email": "isika0551@gmail.com",
+            "role": "user",
+            "message": "pekii",
+            "time": "2026-10-04T14:20:59+02:00"
+        },
+        {
+            "id": 8,
+            "email": "isika0551@gmail.com",
+            "role": "assistant",
+            "message": "Üzgünüm, bu konuda yardımcı olamam. Başka bir konuda destek istersen memnuniyetle yardımcı olurum.",
+            "time": "2026-10-04T14:20:59+02:00"
+        }
+    ]
+}
